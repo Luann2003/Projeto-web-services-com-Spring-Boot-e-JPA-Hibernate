@@ -1,9 +1,7 @@
-# Big Game Survey 
+# Projeto web services com Spring Boot e JPA / Hibernate
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Luann2003/Spring-Boot/blob/main/LICENSE) 
 
 # Sobre o projeto
-
-Projeto web services com Spring Boot e JPA / Hibernate
 
 Este projeto foi desenvolvido junto com o DevSuperior como parte dos meus estudos no curso. Ele foi implementado usando o framework Spring Boot.
 
